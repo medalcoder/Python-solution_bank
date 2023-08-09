@@ -1,6 +1,6 @@
 # Basic Questions
 ### Loops Question
-- [ ] Write a loop to print numbers from 1 to 10.
+- [x] Write a loop to print numbers from 1 to 10.
 - [ ] Create a loop that calculates the sum of numbers from 1 to 100.
 - [ ] Print all even numbers between 20 and 50 using a loop.
 - [ ] Write a loop that generates a multiplication table for a given number.
